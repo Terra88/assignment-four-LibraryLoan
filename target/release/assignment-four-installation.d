@@ -1,0 +1,1 @@
+/home/xyrif/Asiakirjat/koodi/rust/assignment4/assignment-four-installation/target/release/assignment-four-installation: /home/xyrif/Asiakirjat/koodi/rust/assignment4/assignment-four-installation/src/main.rs
